@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.875,
+  "precision": 0.8463114754098361,
+  "recall": 0.875,
+  "f1_score": 0.8604166666666667,
+  "roc_auc": 0.7084745762711864,
+  "classes": [
+    "NORMAL",
+    "PNEUMONIA"
+  ],
+  "confusion_matrix": [
+    [
+      0,
+      5
+    ],
+    [
+      3,
+      56
+    ]
+  ]
+}
